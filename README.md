@@ -1,7 +1,7 @@
 # terminal-vkmessenger
-VK Messenger on python helps you to chat with your friends secretly in your termianl or command prompt
+VK Messenger on python helps you to chat with your friends secretly in your terminal or command prompt
 
-vkmessenger is executable python file(to run - print in linux\osx terminal ./vkmessengeer; For windows -- compile with python)
+vkmessenger is executable python file(to run - print in linux\osx terminal ./vkmessenger; For windows -- compile with python)
 
 HOW IT WORKS:
   With vk_auth.py it connects to oauth.vk.com(with GET Request) and sends printed data(login and password). On success it gets cookies and acces_token to authorize
